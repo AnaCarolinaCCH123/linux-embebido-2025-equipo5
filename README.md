@@ -1,1 +1,2 @@
 # linux-embebido-2025-equipo5
+git add .
